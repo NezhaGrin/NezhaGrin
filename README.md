@@ -10,12 +10,10 @@
 - 面食
 - KOF
 
-#### :muscle: Things I am challenging myself with:
+#### :正在挑战自己的事情:
 
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
+- 完成一个开源项目
+- 参加一个开源项目
 
 #### :computer: 语言和工具: 
 
