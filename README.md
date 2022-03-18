@@ -7,6 +7,7 @@
 
 - 电影
 - 音乐
+- 面食
 - KOF
 
 #### :muscle: Things I am challenging myself with:
