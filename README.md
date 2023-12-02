@@ -10,12 +10,12 @@
 - 面食
 - KOF
 
-#### :muscle:正在挑战自己的事情:
+#### 🐕:正在挑战自己的事情:
 
 - 完成一个开源项目
 - 参与一个开源项目
 
-#### :computer: 语言和工具: 
+#### 🐶: 语言和工具: 
 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=SanTaiZi-NeZha" />
