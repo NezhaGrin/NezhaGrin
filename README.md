@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 ， I'm 哪吒总爱笑</h1> <h3 align="center">一位努力向前飞翔的小菜鸟</h3> 
+<h1 align="center">Hi 👋 ， I'm 哪吒</h1> <h3 align="center">一位努力向前飞翔的小菜鸟</h3> 
 
 <img align="right" alt="img" src="https://picdm.sunbangyan.cn/2023/10/12/r0bq7a.jpg" width="50%" height="auto" />
 
